@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(144, 206, 45);
+}
+
+.box {
+  width: 400px;
+}
+
+.menu {
+  height: 50px;
+  background-color: #00D1AE;
+}
+
+.content {
+  height: 200px;
+  background-color: red;
+}
